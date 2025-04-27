@@ -1,5 +1,5 @@
-# Quiz_System
-Quiz Management System
+# Exam_System
+Exam Management System
 
 
 Exam Management System
