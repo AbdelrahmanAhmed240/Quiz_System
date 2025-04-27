@@ -1,4 +1,4 @@
-# Exam_System
+# Quiz_System
 
 This system is designed for educators in schools and universities, providing an easy-to-use interface for both professors and students. Professors can securely access the system using admin credentials to create, edit, update, and grade exams, as well as post grades. The system allows for the creation of various exam models to prevent cheating.
 
