@@ -1,15 +1,34 @@
-# Quiz_System
+# Quiz Management System
 
-This system is designed for educators in schools and universities, providing an easy-to-use interface for both professors and students. Professors can securely access the system using admin credentials to create, edit, update, and grade exams, as well as post grades. The system allows for the creation of various exam models to prevent cheating.
+A secure and user-friendly exam management system built with C# for schools and universities. Designed to streamline the exam creation and grading process for professors, while maintaining strong security protocols and system reliability.
 
-A high-availability database ensures secure and continuous operations, protecting against unauthorized access and ensuring system reliability even during network or hardware failures. The system is designed to prevent students from accessing exam content, guaranteeing secure test creation and exam-taking.
+## 🧩 Overview
 
-Key Features:
+This system is tailored for educators, offering an intuitive interface for managing quizzes and exams. Professors can log in using admin credentials to create, edit, and grade exams, post results, and manage multiple exam versions to reduce the risk of cheating.
 
--Professors can create, edit, and grade exams.
+A high-availability database ensures continuous operation and protection from data loss, even in the case of network or hardware failures. Students are prevented from accessing exam content, ensuring secure test creation and administration.
 
--Strong security with admin login and high-availability database.
+## 🛠 Technologies Used
 
--Prevention of cheating with multiple exam models.
+- C#
+- Windows Forms (GUI)
+- SQL Database (High Availability)
+- Visual Studio
 
--Continuous system operation despite potential issues.
+## 🚀 Key Features
+
+- 👨‍🏫 Professors can create, edit, and grade exams.
+- 🔐 Secure admin login system.
+- 🛡️ High-availability database for reliable performance and data protection.
+- 📄 Support for multiple exam versions to prevent cheating.
+- 🧑‍🎓 Students are restricted from accessing exam materials.
+
+## 🖼 Screenshots
+
+*Include images of login screen, exam creation panel, and grading view here.*
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AbdelrahmanAhmed240/Quiz_System.git
