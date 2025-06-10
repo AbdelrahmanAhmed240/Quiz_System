@@ -23,9 +23,6 @@ A high-availability database ensures continuous operation and protection from da
 - 📄 Support for multiple exam versions to prevent cheating.
 - 🧑‍🎓 Students are restricted from accessing exam materials.
 
-## 🖼 Screenshots
-
-*Include images of login screen, exam creation panel, and grading view here.*
 
 ## 📦 Installation
 
